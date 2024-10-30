@@ -27,23 +27,19 @@
 
 ## Projects
 ### Fake News Detection
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 - Leveraged cutting-edge machine learning and natural language processing technologies, resulting in an 85% increase in detection accuracy of misinformation.
 - Conducted in-depth analysis of content and context within news articles, achieving a 90% success rate in discerning credible sources from fake ones, thereby contributing to a 70% reduction in the spread of false information.
 
 ### Booktopia
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 - It was library management as well as online shopping platform which is based on **JavaScript** and it resulted reducing cost of management by 20%. It contains functionalities like buy, sell, rent and communication.
 
 ### Web-School
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 - Implemented website using **HTML, CSS, Bootstrap** for frontend, and **SQL** for database and achieved easy access to attend tutorials and lectures from one platform.
 
 ### Agriculture
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 - Developed an application using HTML, CSS, Bootstrap for frontend, **Java** for backend. It helped farmers to gather weather and all natural details through API’s.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
